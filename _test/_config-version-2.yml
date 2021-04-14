@@ -6,13 +6,13 @@ repository: sproogen/modern-resume-theme
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: test@email.com
+name: Virendra Patil
+title: Salesforce Technical Consultant
+email: virendra.patil2013@gmail.com
 email_title: Email
-phone: 07845248563
+phone: +91-8454863333
 phone_title: Phone
-website: sproogen.github.io/modern-resume-theme
+website: https://virendrapatil2013.github.io/virendra.patil.github.io/
 website_title: Web
 
 # Dark Mode (true/false/never)
